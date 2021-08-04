@@ -41,6 +41,14 @@
     },
     {
       "chainId": 1,
+      "address": "2e78dd2e82b9d19ff7768a293dd507d8d7548534",
+      "name": "Token E",
+      "symbol": "TE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
+    },
+    {
+      "chainId": 1,
       "address": "6d9115a21863ce31b44cd231e4c4ccc87566222f",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
