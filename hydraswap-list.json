@@ -5,7 +5,7 @@
     "hydra",
     "hydraswap"
   ],
-  "timestamp": "2021-05-24T20:37:00.000+00:00",
+  "timestamp": "2021-08-04T16:40:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -70,10 +70,18 @@
       "symbol": "TF",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "24bdcf8c25b056c29ed1a32a61c44a13b8a9db98",
+      "name": "TEST",
+      "symbol": "TTT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
