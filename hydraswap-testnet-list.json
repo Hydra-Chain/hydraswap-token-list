@@ -59,11 +59,19 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "chainId": 2,
+      "address": "43ff8831db885a13778d1c4ee9fc3d9dcdaf297e",
+      "name": "Voltron",
+      "symbol": "VOLT",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
     "major": 4,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }
